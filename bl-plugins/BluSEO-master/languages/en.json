@@ -1,0 +1,10 @@
+{
+	"plugin-data":
+	{
+		"name": "BluSeo",
+		"description": "The SEO Plugin for Bludit."
+	},
+	"default-image": "Default image",
+	"description": "Default Description to show on index and archives. Max 150 chars. Leave blank to use Bludit's description.",
+	"fbpage": "Let search engines know which Facebook profile is associated to this site."
+}
